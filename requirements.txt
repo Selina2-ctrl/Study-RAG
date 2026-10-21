@@ -1,0 +1,6 @@
+flask
+pypdf
+python-docx
+sentence-transformers
+numpy
+google-genai
